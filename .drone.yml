@@ -6,7 +6,6 @@ steps:
   image: plugins/docker
   settings:
     repo: kinnairdclan/mattermost-team-edition
-    dockerfile: build/Dockerfile
     tags:
       - latest
       - 'v6.3.3_custom'
