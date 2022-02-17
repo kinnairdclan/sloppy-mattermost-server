@@ -1,1 +1,1 @@
-Sloppy.io-optimized mattermost server Dockerfile
+Sloppy.io-optimized mattermost server Dockerfile. Drone.io deployed.
