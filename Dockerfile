@@ -1,7 +1,7 @@
 FROM alpine:3.14
 
 # Some ENV variables
-ENV VERSION="6.3.4"
+ENV VERSION="6.3.3"
 ENV PATH="/mattermost/bin:${PATH}"
 ARG PUID=2000
 ARG PGID=2000
