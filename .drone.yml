@@ -8,7 +8,7 @@ steps:
     repo: kinnairdclan/mattermost-team-edition
     tags:
       - latest
-      - 'v7.1.1_custom'
+      - 'v7.1.2_custom'
     username:
       from_secret: dockerhub_username
     password:
